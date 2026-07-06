@@ -199,7 +199,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpal00
 |--------|-------|
 | 📦 Public Repos | **13** |
 | 👥 Followers | **7** |
-| ⭐ Total Stars | **11** |
+| ⭐ Total Stars | **12** |
 | 🍴 Total Forks | **0** |
 | 🟩 Total Contributions (this year) | **322** |
 
@@ -217,7 +217,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpal00
 `CSS           ` ██░░░░░░░░░░░░░░░░░░ 8%
 `HTML          ` ██░░░░░░░░░░░░░░░░░░ 8%
 
-> ⏱️ *Auto-updated: Mon, 06 Jul 2026 08:13:30 GMT*
+> ⏱️ *Auto-updated: Mon, 06 Jul 2026 08:20:10 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
