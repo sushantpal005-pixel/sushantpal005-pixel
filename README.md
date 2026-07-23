@@ -207,8 +207,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpal00
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **34 days** | **52 days** | **117** |
-| 06/19 → 07/22 | 03/05 → 04/25 | this year |
+| **0 days** | **52 days** | **117** |
+| N/A → N/A | 03/05 → 04/25 | this year |
 
 ### 🗂️ Top Languages
 
@@ -217,7 +217,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpal00
 `CSS           ` █░░░░░░░░░░░░░░░░░░░ 7%
 `HTML          ` █░░░░░░░░░░░░░░░░░░░ 7%
 
-> ⏱️ *Auto-updated: Thu, 23 Jul 2026 13:45:28 GMT*
+> ⏱️ *Auto-updated: Thu, 23 Jul 2026 19:07:19 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
