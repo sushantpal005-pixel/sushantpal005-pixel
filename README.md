@@ -201,14 +201,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpal00
 | 👥 Followers | **7** |
 | ⭐ Total Stars | **13** |
 | 🍴 Total Forks | **1** |
-| 🟩 Total Contributions (this year) | **389** |
+| 🟩 Total Contributions (this year) | **0** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **60 days** | **60 days** | **143** |
-| 06/19 → 08/17 | 06/19 → 08/17 | this year |
+| **0 days** | **0 days** | **0** |
+| N/A → N/A | N/A → N/A | this year |
 
 ### 🗂️ Top Languages
 
@@ -218,7 +218,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpal00
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `CSS           ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Mon, 17 Aug 2026 12:33:16 GMT*
+> ⏱️ *Auto-updated: Mon, 17 Aug 2026 18:31:01 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
