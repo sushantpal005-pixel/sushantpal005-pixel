@@ -213,12 +213,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpal00
 ### 🗂️ Top Languages
 
 `JavaScript    ` ██████████████░░░░░░ 71%
-`Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `Python        ` █░░░░░░░░░░░░░░░░░░░ 6%
+`Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `HTML          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Wed, 02 Sep 2026 15:50:35 GMT*
+> ⏱️ *Auto-updated: Wed, 02 Sep 2026 20:25:34 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
