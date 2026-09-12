@@ -197,28 +197,28 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantpal00
 <!-- LIVE-STATS:START -->
 | Metric | Value |
 |--------|-------|
-| 📦 Public Repos | **17** |
+| 📦 Public Repos | **18** |
 | 👥 Followers | **7** |
 | ⭐ Total Stars | **17** |
 | 🍴 Total Forks | **1** |
-| 🟩 Total Contributions (this year) | **424** |
+| 🟩 Total Contributions (this year) | **426** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **85 days** | **85 days** | **167** |
-| 06/19 → 09/11 | 06/19 → 09/11 | this year |
+| **86 days** | **86 days** | **168** |
+| 06/19 → 09/12 | 06/19 → 09/12 | this year |
 
 ### 🗂️ Top Languages
 
-`JavaScript    ` ██████████████░░░░░░ 71%
+`JavaScript    ` █████████████░░░░░░░ 67%
+`Python        ` ██░░░░░░░░░░░░░░░░░░ 11%
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
-`Python        ` █░░░░░░░░░░░░░░░░░░░ 6%
 `HTML          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Sat, 12 Sep 2026 14:52:30 GMT*
+> ⏱️ *Auto-updated: Sat, 12 Sep 2026 20:04:40 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
